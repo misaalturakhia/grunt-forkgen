@@ -1,0 +1,17 @@
+{
+  "name": "grunt-forkgen",
+  "version": "1.0.0",
+  "description": "A project structure generator",
+  "main": "index.js",
+  "dependencies": {
+    "fs-extra": "^0.26.4",
+    "async": "^1.5.2",
+    "pluralize": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Misaal Turakhia",
+  "license": "MIT"
+}
